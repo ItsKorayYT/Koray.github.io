@@ -1,8 +1,6 @@
 # RedDotGame
 reddotgame
 
+this is the deployment of the website? or something idk
 
-Simple Red dot game :)
-
-
-to play it, simply put index.html, script.js and style.css into one folder and open the index.html in you browser!
+---> https://itskorayyt.github.io/Koray.github.io/
